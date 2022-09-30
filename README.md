@@ -1,3 +1,29 @@
 # Physics-Labs
+
+Experimental methods and gear:
+- oszilloscopes
+- signal amplifiers
+- optics (lasers, mirrors)
+- liquid nitrogen
+
+Used Analysing techniques:
+- Python
+  - plotting (matplotlib)
+  - fitting arbitrary functions to data (scipy.optimize.curve_fit)
+  - chi-square fitting  (scipy.stats.chi2)
+- statistics
+  - calculation mean, standard deviation, deviation of mean (numpy)
+  - calculating systematic error and statistical error
+- LaTeX
+  - write protocolls (Overleaf)
+  - format plots, design layout, allocate pictures properly 
+
+
+
+light source Lab:
 I analysed discret and continous light sources by comparing the respective spectra.
-Used analysing techniques were plotting and chi-square fitting via python.
+
+
+Fourier optics Lab:
+I analysed diffraction patterns of single and double slits.
+I further applied the concept of Fouriersynthesis.
