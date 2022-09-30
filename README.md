@@ -20,10 +20,14 @@ Used Analysing techniques:
 
 
 
-light source Lab:
+light source Lab: 
 I analysed discret and continous light sources by comparing the respective spectra.
 
 
-Fourier optics Lab:
+Fourier optics Lab: 
 I analysed diffraction patterns of single and double slits.
 I further applied the concept of Fouriersynthesis.
+
+Temperature Measurement Lab written in english
+I used different measurement techniques like a gas thermometer, a platinum resistance thermometer, a infrared inferometer and a PtRh-thermocouple
+I measured the boiling temperature of liquid nitrogen.
